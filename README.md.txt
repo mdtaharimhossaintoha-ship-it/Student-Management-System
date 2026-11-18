@@ -65,9 +65,9 @@ Linux:
 
 ## 🔐 Demo Login
 
-Username: `admin`
+Username: `toha`
 
-Password: `admin123`
+Password: `1234`
 
 ## 💾 Data Storage
 
